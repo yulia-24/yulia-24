@@ -42,21 +42,29 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
   <img src="https://img.shields.io/badge/SQL-Intermediate-3776AB?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Intermediate-3776AB?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Data%20Visualization-Intermediate-3776AB?style=flat" alt="Data Visualization Badge">
+  <img src="https://img.shields.io/badge/Dashboards-Intermediate-3776AB?style=flat" alt="Dashboard Badge">
 </p>
 
-#### Programming & Machine Learning
+#### Programming & Statistical Computing
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/R-Intermediate-3776AB?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Intermediate-3776AB?style=flat" alt="ML Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Modeling-Intermediate-3776AB?style=flat" alt="Stats Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Strong-00B894?style=flat" alt="Statistical Analysis Badge">
 </p>
 
-#### Data Science & Analytics
+#### Machine Learning & Modeling
 <p>
-  <img src="https://img.shields.io/badge/Regression%20Models-Intermediate-3776AB?style=flat" alt="Regression Badge">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Intermediate-3776AB?style=flat" alt="ML Badge">
+  <img src="https://img.shields.io/badge/Regression%20Models-Strong-00B894?style=flat" alt="Regression Badge">
   <img src="https://img.shields.io/badge/Classification-Intermediate-3776AB?style=flat" alt="Classification Badge">
+  <img src="https://img.shields.io/badge/Model%20Selection-Intermediate-3776AB?style=flat" alt="Model Selection Badge">
   <img src="https://img.shields.io/badge/Model%20Evaluation-Intermediate-3776AB?style=flat" alt="Model Evaluation Badge">
-  <img src="https://img.shields.io/badge/Data%20Pipelines-Intermediate-3776AB?style=flat" alt="Pipelines Badge">
+</p>
+
+#### Advanced Analytics
+<p>
+  <img src="https://img.shields.io/badge/Data%20Mining-Intermediate-3776AB?style=flat" alt="Data Mining Badge">
+  <img src="https://img.shields.io/badge/High--Dimensional%20Data-Intermediate-3776AB?style=flat" alt="High Dimensional Data Badge">
   <img src="https://img.shields.io/badge/Simulation%20%26%20Monte%20Carlo-Intermediate-3776AB?style=flat" alt="Simulation Badge">
+  <img src="https://img.shields.io/badge/Data%20Pipelines-Intermediate-3776AB?style=flat" alt="Pipelines Badge">
 </p>
