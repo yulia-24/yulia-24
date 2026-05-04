@@ -13,14 +13,14 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a data analyst and aspiring machine learning engineer passionate about turning complex data into meaningful insights and predictive solutions. I enjoy working with messy, real-world datasets and building models that help understand patterns and support better decision-making.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My focus is on developing end-to-end data workflows—from data cleaning and preprocessing to modeling and evaluation—and applying statistical and machine learning methods to solve practical problems.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I’m especially interested in applying machine learning in real-world environments and continuing to grow through hands-on experience. I enjoy the “aha!” moment when data reveals something useful and unexpected.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://yulia-24.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
